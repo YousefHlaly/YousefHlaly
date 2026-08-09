@@ -84,7 +84,7 @@ Anthropic, Gemini and Mistral available as an explicit, documented opt-in behind
 
 **Key engineering decisions**
 
-- **Local-first by default** — everything runs on-device through Ollama; cloud providers are an explicit opt-in, with the reasoning captured in the project own architecture decision records.
+- **Local-first by default** — everything runs on-device through Ollama; cloud providers are an explicit opt-in, with the reasoning captured in the architecture decision records that ship with the repository.
 - **A native LLM adapter instead of LangChain or LlamaIndex** — a thin, typed adapter built in-house to keep the abstraction predictable and debuggable.
 - **Typed and gated end to end** — typed configuration, mypy in strict mode, Ruff linting, and GitHub Actions CI across both the Python backend and the TypeScript frontend.
 - **Decisions are documented, not folklore** — nine immutable MADR-style ADRs, operational runbooks and JSON-Schema data contracts live in the repository.
@@ -119,28 +119,22 @@ and generates pose comparisons and performance charts. Processing runs entirely 
 
 <div align="center">
 
-<img alt="Focus area: production AI systems" src="https://img.shields.io/badge/Production%20AI%20Systems-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" />
-<img alt="Focus area: RAG architecture and security" src="https://img.shields.io/badge/RAG%20Architecture%20%26%20Security-0D1117?style=for-the-badge&labelColor=0D1117&color=A78BFA" />
-<img alt="Focus area: LLM evaluation and AI agents" src="https://img.shields.io/badge/LLM%20Evaluation%20%26%20AI%20Agents-0D1117?style=for-the-badge&labelColor=0D1117&color=38BDF8" />
+<img alt="Focus area: production AI systems" src="https://img.shields.io/badge/Production%20AI%20Systems-0D1117?style=for-the-badge&labelColor=0D1117&color=0B2A33" />
+<img alt="Focus area: RAG architecture and security" src="https://img.shields.io/badge/RAG%20Architecture%20%26%20Security-0D1117?style=for-the-badge&labelColor=0D1117&color=1E1B4B" />
+<img alt="Focus area: LLM evaluation and AI agents" src="https://img.shields.io/badge/LLM%20Evaluation%20%26%20AI%20Agents-0D1117?style=for-the-badge&labelColor=0D1117&color=0F2547" />
 <br />
-<img alt="Focus area: fine-tuning pipelines" src="https://img.shields.io/badge/Fine--Tuning%20Pipelines-0D1117?style=for-the-badge&labelColor=0D1117&color=A78BFA" />
-<img alt="Focus area: data drift detection" src="https://img.shields.io/badge/Data%20Drift%20Detection-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" />
-<img alt="Focus area: computer vision" src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&labelColor=0D1117&color=38BDF8" />
+<img alt="Focus area: fine-tuning pipelines" src="https://img.shields.io/badge/Fine--Tuning%20Pipelines-0D1117?style=for-the-badge&labelColor=0D1117&color=1E1B4B" />
+<img alt="Focus area: data drift detection" src="https://img.shields.io/badge/Data%20Drift%20Detection-0D1117?style=for-the-badge&labelColor=0D1117&color=0B2A33" />
+<img alt="Focus area: computer vision" src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&labelColor=0D1117&color=0F2547" />
 <br />
-<img alt="Focus area: ML automation and MLOps" src="https://img.shields.io/badge/ML%20Automation%20%26%20MLOps-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" />
-<img alt="Focus area: software architecture and refactoring" src="https://img.shields.io/badge/Software%20Architecture%20%26%20Refactoring-0D1117?style=for-the-badge&labelColor=0D1117&color=A78BFA" />
+<img alt="Focus area: ML automation and MLOps" src="https://img.shields.io/badge/ML%20Automation%20%26%20MLOps-0D1117?style=for-the-badge&labelColor=0D1117&color=0B2A33" />
+<img alt="Focus area: software architecture and refactoring" src="https://img.shields.io/badge/Software%20Architecture%20%26%20Refactoring-0D1117?style=for-the-badge&labelColor=0D1117&color=1E1B4B" />
 
 </div>
 
 ---
 
 ## 📊 GitHub
-
-<div align="center">
-
-<img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=YousefHlaly&label=Profile%20views&color=22d3ee&style=flat-square" />
-
-</div>
 
 Most of my engineering has lived in private R&D repositories, so the public contribution graph does not tell the whole story.
 KRONOS is the clearest public window into how I design and document systems — architecture decision records, runbooks,
