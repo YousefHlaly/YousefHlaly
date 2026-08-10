@@ -36,11 +36,11 @@ I work best on ambiguous research problems that still have to land as documented
 
 ## Experience
 
-| When | Role | What I did |
-|:--|:--|:--|
-| **Oct 2025 - Jun 2026** | **AI/ML Engineer - R&D Execution & Team Lead**<br />YOUXEL Technology, AI Innovation Department | Led multi-track R&D delivery on TORUK, an enterprise AI agent platform: RAG security architecture, an autonomous LLM fine-tuning system, a self-service cloud fine-tuning POC, an agent quality and active-learning layer, and sports-analytics computer vision. Refactored and modularised the core AI engine, supervised a junior R&D engineer, and ran delivery through Jira Scrum. |
-| **Mar 2025 - Oct 2025** | **Business Data Analyst (Junior Software Engineer)**<br />GIG Egypt Life Takaful | Digital-transformation work on Jira Service Management, workflow automation with ScriptRunner (Groovy), requirements analysis, and BI dashboards for executive decision-making. |
-| **Sep 2023 - Oct 2023** | **Backend Developer, Intern**<br />GIG Egypt | Built a CRUD REST API for customer invoice management with Laravel and MySQL. |
+| Role | What I did |
+|:--|:--|
+| **AI/ML Engineer - R&D Execution & Team Lead**<br />YOUXEL Technology · AI Innovation Department<br />*Oct 2025 - Jun 2026* | Led multi-track R&D delivery on TORUK, an enterprise AI agent platform: RAG security architecture, an autonomous LLM fine-tuning system, a self-service cloud fine-tuning POC, an agent quality and active-learning layer, and sports-analytics computer vision. Refactored and modularised the core AI engine, supervised a junior R&D engineer, and ran delivery through Jira Scrum. |
+| **Business Data Analyst (Junior Software Engineer)**<br />GIG Egypt Life Takaful<br />*Mar 2025 - Oct 2025* | Digital-transformation work on Jira Service Management, workflow automation with ScriptRunner (Groovy), requirements analysis, and BI dashboards for executive decision-making. |
+| **Backend Developer, Intern**<br />GIG Egypt<br />*Sep 2023 - Oct 2023* | Built a CRUD REST API for customer invoice management with Laravel and MySQL. |
 
 ---
 
@@ -66,7 +66,6 @@ I work best on ambiguous research problems that still have to land as documented
 
 <a href="https://github.com/YousefHlaly/KRONOS"><img alt="Open the KRONOS repository" src="https://img.shields.io/badge/repo-YousefHlaly%2FKRONOS-0D1117?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=22D3EE" /></a>
 <img alt="Status: all six build phases complete" src="https://img.shields.io/badge/status-6%2F6%20phases%20complete-0D1117?style=for-the-badge&labelColor=0D1117&color=0E7490" />
-<a href="https://github.com/YousefHlaly/KRONOS/blob/main/LICENSE"><img alt="KRONOS license" src="https://img.shields.io/github/license/YousefHlaly/KRONOS?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
 <a href="https://github.com/YousefHlaly/KRONOS"><img alt="KRONOS primary language" src="https://img.shields.io/github/languages/top/YousefHlaly/KRONOS?style=for-the-badge&labelColor=0D1117&color=0D1117&logo=python&logoColor=22D3EE" /></a>
 <a href="https://github.com/YousefHlaly/KRONOS/commits/main"><img alt="KRONOS last commit" src="https://img.shields.io/github/last-commit/YousefHlaly/KRONOS?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
 
@@ -101,28 +100,30 @@ Anthropic, Gemini and Mistral available as an explicit, documented opt-in behind
 
 <br />
 
+### Sport Performance Analyzer - Computer Vision
+
+<a href="https://github.com/YousefHlaly/sport-performance-analyzer"><img alt="Open the sport-performance-analyzer repository" src="https://img.shields.io/badge/repo-YousefHlaly%2Fsport--performance--analyzer-0D1117?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=22D3EE" /></a>
+<a href="https://github.com/YousefHlaly/sport-performance-analyzer"><img alt="Primary language of the sport-performance-analyzer repository" src="https://img.shields.io/github/languages/top/YousefHlaly/sport-performance-analyzer?style=for-the-badge&labelColor=0D1117&color=0D1117&logo=python&logoColor=22D3EE" /></a>
+
+A computer-vision tool that compares a football technique against a professional reference video.
+It extracts body landmarks with MediaPipe, scores upper body, lower body and core stability frame by frame,
+and generates pose comparisons and performance charts. It ships with both a CLI and a Flask REST API
+(video upload, health check, CORS) so the analyzer can be driven remotely - and all processing stays local.
+
+**Stack** - Python · OpenCV · MediaPipe · NumPy · Matplotlib · Flask · REST API
+
+<br />
+
 ### Nest Invest - AI-Powered Stock Market Simulator
 
 <img alt="Graduation project graded A" src="https://img.shields.io/badge/graduation%20project-grade%20A-0D1117?style=for-the-badge&labelColor=0D1117&color=1E1B4B" />
-<img alt="Source code not public" src="https://img.shields.io/badge/code-private%20%C2%B7%20walkthrough%20on%20request-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+<img alt="Source code kept private, walkthrough available on request" src="https://img.shields.io/badge/code-private%20%C2%B7%20walkthrough%20on%20request-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
 
 A full-stack web app where users trade with a virtual budget against real market data, backed by an LSTM deep-learning
 model for price forecasting served from a separate Python ML service. I owned the AI model design, training and
 integration end to end, delivered in one month.
 
 **Stack** - PyTorch · NumPy · pandas · scikit-learn · yfinance · MongoDB, Express, React, Node.js
-
-<br />
-
-### Sport Performance Analyzer - Computer Vision
-
-<img alt="Private repository" src="https://img.shields.io/badge/repo-private%20%C2%B7%20walkthrough%20on%20request-0D1117?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=A78BFA" />
-
-A computer-vision tool that compares a player's football technique against a professional reference video.
-It extracts body landmarks with MediaPipe, scores upper body, lower body and core stability frame by frame,
-and generates pose comparisons and performance charts. Processing runs entirely offline on the local machine.
-
-**Stack** - Python · OpenCV · MediaPipe · NumPy · Matplotlib
 
 ---
 
