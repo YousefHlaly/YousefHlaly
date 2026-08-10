@@ -37,7 +37,7 @@
 
 <br>
 
-☁️✨https://guns.lol/j0e_wrld✨☁️
+☁️✨ https://guns.lol/j0e_wrld ✨☁️
 
 </td>
 </tr>
