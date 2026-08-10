@@ -37,17 +37,7 @@
 
 <br>
 
-<a href="https://github.com/YousefHlaly">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yousef-mamdouh2000">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
-</a>
-
-<a href="mailto:mamdouhy614@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
-</a>
+☁️✨https://guns.lol/j0e_wrld✨☁️
 
 </td>
 </tr>
