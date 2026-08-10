@@ -33,11 +33,7 @@
   alt="Typing animation"
 />
 
-<p>
-I build <strong>production-oriented AI systems</strong> —
-LLM and RAG architectures, autonomous fine-tuning pipelines,
-computer-vision systems, and MLOps automation.
-</p>
+
 
 <br>
 
