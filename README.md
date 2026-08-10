@@ -1,5 +1,65 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="28%" align="center">
+
+<img
+  src="https://raw.githubusercontent.com/YousefHlaly/YousefHlaly/main/assets/yousef.jpeg"
+  width="220"
+  height="220"
+  style="border-radius: 50%; object-fit: cover;"
+  alt="Yousef Mamdouh"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/AI%2FML%20ENGINEER-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE"
+/>
+
+</td>
+
+<td width="72%" align="left">
+
+<h1>Yousef Mamdouh</h1>
+
+<h3>AI/ML Engineer · Data Scientist · R&D Builder</h3>
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&width=650&height=55&lines=AI%2FML+Engineer;R%26D+Engineer;LLM+%26+RAG+Systems+Builder;Computer+Vision+%26+Deep+Learning;MLOps+%26+ML+Automation"
+  alt="Typing animation"
+/>
+
+<p>
+I build <strong>production-oriented AI systems</strong> —
+LLM and RAG architectures, autonomous fine-tuning pipelines,
+computer-vision systems, and MLOps automation.
+</p>
+
+<br>
+
+<a href="https://github.com/YousefHlaly">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yousef-mamdouh2000">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+</a>
+
+<a href="mailto:mamdouhy614@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/YousefHlaly/YousefHlaly/main/assets/hero.svg" alt="Yousef Mamdouh - AI/ML Engineer, Data Scientist, R and D Builder" width="100%" />
 
 <img alt="Animated banner cycling through: AI/ML Engineer, R&D Engineer, LLM and RAG Systems Builder, Computer Vision and Deep Learning, MLOps and ML Automation, Production-Oriented AI Systems" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=58&lines=AI%2FML+Engineer;R%26D+Engineer;LLM+%26+RAG+Systems+Builder;Computer+Vision+%26+Deep+Learning;MLOps+%26+ML+Automation;Production-Oriented+AI+Systems" />
