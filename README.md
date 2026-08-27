@@ -35,7 +35,8 @@
 
 <br>
 
-☁️✨ https://guns.lol/j0e_wrld ✨☁️
+☁️✨ https://guns.lol/j0e_wrld ✨
+https://portfolio-yousefhlaly.vercel.app/ ✨☁️
 
 </td>
 </tr>
